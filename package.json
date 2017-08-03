@@ -1,0 +1,21 @@
+{
+  "name": "laserScanner",
+  "version": "0.0.1",
+  "description": "Cordova Laser Scanner Plugin",
+  "cordova": {
+    "id": "laserScannerPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "laser",
+    "scanner",
+    "barcode",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "liwm",
+  "license": "MIT"
+}
